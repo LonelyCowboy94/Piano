@@ -1,0 +1,17 @@
+export const notes = [
+  { name: "C4", freq: 261.63, key: "a" },
+  { name: "C#4", freq: 277.18, key: "w" },
+  { name: "D4", freq: 293.66, key: "s" },
+  { name: "D#4", freq: 311.13, key: "e" },
+  { name: "E4", freq: 329.63, key: "d" },
+  { name: "F4", freq: 349.23, key: "f" },
+  { name: "F#4", freq: 369.99, key: "t" },
+  { name: "G4", freq: 392.0, key: "g" },
+  { name: "G#4", freq: 415.3, key: "y" },
+  { name: "A4", freq: 440.0, key: "h" },
+  { name: "A#4", freq: 466.16, key: "u" },
+  { name: "B4", freq: 493.88, key: "j" },
+  { name: "C5", freq: 523.25, key: "k" },
+  { name: "C#5", freq: 554.37, key: "o" },
+  { name: "D5", freq: 587.33, key: "l" },
+];
